@@ -1,4 +1,4 @@
-age com.example.toggle;
+package com.example.toggle;
 
 import android.os.Bundle;
 import android.view.View;
